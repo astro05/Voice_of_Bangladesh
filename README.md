@@ -1,0 +1,2 @@
+# Voice_of_Bangladesh
+Users find easier ways to share problems related to crime, fraud, and harassment through this app which is entirely anonymous and makes sure every person's identity is safe. Emergency Services (Police, Ambulance, Fire Service) provide quickly through the app which saves the user's life and time both. Two Factor Authentication, OTP sent to mobile, Android Studio used to build this app.
